@@ -156,10 +156,60 @@ CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 🌏港台频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+壹电视新闻台,mitv://ns1.hellotvvod.com:9906/a09f19887f8f407db977f29ae7fadca8
+年代新闻,mitv://ns1.hellotvvod.com:9906/02de213675d0446d811e6c07dfb6884f
+东森新闻台,mitv://ns1.hellotvvod.com:9906/0fd3da1d02c3429c82ea74a039f1905c
+中天新闻台,mitv://ns1.hellotvvod.com:9906/634f837e000e68ba506de54125b72526
+民视新闻台,mitv://ns1.hellotvvod.com:9906/1397bbf6cea84db6836ec60dbc70072d
+三立新闻台,mitv://ns1.hellotvvod.com:9906/aebec3531ec9476eae32dc9462803229
+TVBS新闻台,mitv://ns1.hellotvvod.com:9906/bb4e0faf1ac84f9782511c0fbd38248d
+TVBS,mitv://ns1.hellotvvod.com:9906/634f827d00054aee5069f6f7241b2c13
+非凡新闻台,mitv://ns1.hellotvvod.com:9906/b985bd26915e4d399ce97d2f64c4aa08
+纬来体育台,mitv://ns1.hellotvvod.com:9906/4bc39109c2c84c80919476b59d165193
+ELEVEN体育1台,mitv://ns1.hellotvvod.com:9906/cd9f82215843429ca555533e10a6acd5
+爱尔达体育1台(备),mitv://ns1.hellotvvod.com:9906/d00ec6f813f34bcda0c923486a8e2cfe
+爱尔达体育2台(备),mitv://ns1.hellotvvod.com:9906/7ab0496fd8b143219f366d7c342971ca
+博斯高球,mitv://ns1.hellotvvod.com:9906/f3b4a860e9374c6d946750a4907d41cb
+博斯高球二台,mitv://ns1.hellotvvod.com:9906/64551a34d53f4eaf99123adeac6a3759
+博斯网球台,mitv://ns1.hellotvvod.com:9906/74fa189e792e47f38aa316754866d7b3
+博斯魅力网,mitv://ns1.hellotvvod.com:9906/77c4944ad0c542619307a3f3fa7ad755
+博斯无限台,mitv://ns1.hellotvvod.com:9906/ae9bf4ce06b04832a1f443f9ca610184
+博斯无限二台,mitv://ns1.hellotvvod.com:9906/00f4544393cf41c29a18d955c9977307
+博斯运动,mitv://ns1.hellotvvod.com:9906/b13b1d40578b4077a311f8f85cd9e85b
+ELEVEN体育2台,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
+智林体育台,mitv://ns1.hellotvvod.com:9906/fd46918efc254ed7a2d7690f54fc64bb
+博斯运动二台,mitv://ns1.hellotvvod.com:9906/6c4996f50a2d4a458b3592001a9ca4d7
+中视新闻台,mitv://ns1.hellotvvod.com:9906/4de36a23d49142e1b99a6d8d8f92949c
+寰宇新闻台,mitv://ns1.hellotvvod.com:9906/8c147439c35345b9b2bfcb68b818cada
+华视新闻,mitv://ns1.hellotvvod.com:9906/ce30b149d6054787bc46f653129a6cd6
+NHK新闻资讯台,mitv://ns1.hellotvvod.com:9906/b7eeac00c1a642c2b83a9dd9ab8405cb
+台视新闻台,mitv://ns1.hellotvvod.com:9906/f388e56053f84769b30dd3cf169b009e
+寰宇新闻台湾台,mitv://ns1.hellotvvod.com:9906/c4d0c204a3134abeb0bdce743a659b09
+爱尔达体育1台,mitv://ns1.hellotvvod.com:9906/f21665e293284ce782f0e184a90cd811
+爱尔达体育2台,mitv://ns1.hellotvvod.com:9906/365a920cde454b68832ef3f011dfe90d
+爱尔达体育3台,mitv://ns1.hellotvvod.com:9906/bafe99ff20e745faaf32a98a1a7ad699
+翡翠台(备),mitv://ns1.hellotvvod.com:9906/634f7eae00038eab505b15f2553f37be
+J2,mitv://ns1.hellotvvod.com:9906/969387eaa48e49c8a22191238d5e59da
+无线新闻台(备),mitv://ns1.hellotvvod.com:9906/a697261e33e24c15a06ec4cc3de39af7
+无线新闻台,mitv://ns1.hellotvvod.com:9906/f70c75ed51fc4054b4c9a6ba12ea022b
+凤凰中文台,mitv://ns1.hellotvvod.com:9906/ecb4ae26e14740efb2ef913363740c4c
+凤凰资讯台,mitv://ns1.hellotvvod.com:9906/d8ee2870b20e4575926c05e8d571ad66
+凤凰香港台,mitv://ns1.hellotvvod.com:9906/22e9447920ee4f3d96f69e80b2dc5222
+now新闻台,mitv://ns1.hellotvvod.com:9906/a230914587864f43b33dd203283a798c
+now直播台,mitv://ns1.hellotvvod.com:9906/76e2d2871a284728ad4e1497bee3b209
+HKC电影台,mitv://ns1.hellotvvod.com:9906/55a0a31fc9ac400582c988b93b1b1e8b
+凤凰电影台,mitv://ns1.hellotvvod.com:9906/f68a2947cfe74ce0872d9d93a6fd9183
+HKC新闻台,mitv://ns1.hellotvvod.com:9906/00dbc6c80dd1471f8bc00f9cd5a947a4
+HKC體育台,mitv://ns1.hellotvvod.com:9906/abcd74b31816451d8e804d1d21f111da
+翡翠台,mitv://ns1.hellotvvod.com:9906/62a330b63e3a4bdea676a9af81255036
 凤凰中文,http://113.117.74.37:808/hls/37/index.m3u8
 凤凰资讯,http://113.117.74.37:808/hls/36/index.m3u8
 凤凰香港,http://113.117.74.37:808/hls/38/index.m3u8
 翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
+翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+翡翠台,http://23.237.10.66:16106
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -175,6 +225,25 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.157/sat/tv551
+东森新闻,http://61.219.170.95:18512/.m3u8
+中天新闻,http://61.219.170.95:18513/.m3u8
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.150:1935/sat/tv551
+緯來體育,rtmp://59.124.75.150:1935/sat/tv721
+緯來體育,rtmp://59.124.75.138:1935/sat/tv721
+ELTA體育3,rtmp://59.124.75.138/sat/md041
+eleven2,rtmp://59.124.75.150:1935/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
 📺卫视频道,#genre#
 广东卫视,http://113.117.74.37:808/hls/40/index.m3u8
 湖南卫视,http://113.117.74.37:808/hls/42/index.m3u8

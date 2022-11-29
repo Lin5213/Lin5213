@@ -145,7 +145,7 @@
 
 "spider":"https://agit.ai/zxwwp/TVBox/raw/branch/master/duov.jar",
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/zxwwp/TVBox/raw/branch/master/TV.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=EF3D11E2330203600CE71E3D8B22295C"]}]}],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 

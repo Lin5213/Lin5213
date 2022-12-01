@@ -11,35 +11,9 @@
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/企鹅直播.json"},
 {"key": "csp_XYQ_lu1","name": "️🖥️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/zxwwp/TVBox/raw/branch/master/电视直播.json"},
 
-{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/小苹果.jar"},
-		{
-			"key": "csp_QQ",
-			"name": "🐧腾讯（官）",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_MGTV",
-			"name": "🥭芒果（官）",
-			"type": 3,
-			"api": "csp_MGTV",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺（官）",
-			"type": 3,
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
+{"key": "csp_MGTV","name": "🥭芒果（官）","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_IQIYI","name": "🥝爱奇艺（官）","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
+{
 			"key": "youku",
 			"name": "👑优酷（官）",
 			"type": 0,
@@ -66,12 +40,7 @@
 				"冒险片",
 				"悬疑片",
 				"动画片",
-				"武侠片",
-				"奇幻片",
-				"少儿",
-				"其他片"
-			]
-		},
+				"武侠片","奇幻片","少儿","其他片"]},
 		{
 			"key": "PpTV",
 			"name": "📺PPTV（官）",
@@ -249,7 +218,7 @@
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 
-"spider":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+"spider":"https://agit.ai/zxwwp/TVBox/raw/branch/master/duov.jar5",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p4d3dwL1RWQm94L3Jhdy9icmFuY2gvbWFzdGVyL1RWLnR4dA=="]}]}],
 

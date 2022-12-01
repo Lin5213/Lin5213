@@ -11,6 +11,8 @@
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/企鹅直播.json"},
 {"key": "csp_XYQ_lu1","name": "️🖥️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/zxwwp/TVBox/raw/branch/master/电视直播.json"},
 
+{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/小苹果.jar"},
+
 {"key":"csp_xBPQ_胖虎","name":"🍀胖虎（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/胖虎.json"},
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/农民影视.json"},
 {"key":"csp_DiDuan" ,"name":"♻️低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},

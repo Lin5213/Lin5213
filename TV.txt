@@ -1,4 +1,45 @@
 🌏央视卫视,#genre#
+CCTV1,http://124.220.17.172/as.php?id=1
+CCTV2,http://124.220.17.172/as.php?id=2
+CCTV3,http://124.220.17.172/as.php?id=3
+CCTV4,http://124.220.17.172/as.php?id=4
+CCTV6,http://124.220.17.172/as.php?id=6
+CCTV7,http://124.220.17.172/as.php?id=7
+CCTV8,http://124.220.17.172/as.php?id=8
+CCTV9,http://124.220.17.172/as.php?id=9
+CCTV10,http://124.220.17.172/as.php?id=10
+CCTV11,http://124.220.17.172/as.php?id=11
+CCTV12,http://124.220.17.172/as.php?id=12
+CCTV13,http://124.220.17.172/as.php?id=13
+CCTV15,http://124.220.17.172/as.php?id=15
+CCTV17,http://124.220.17.172/as.php?id=17
+CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
+CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
+CCTV3,http://218.29.55.44:808/hls/3/index.m3u8
+CCTV4,http://218.29.55.44:808/hls/4/index.m3u8
+CCTV6,http://218.29.55.44:808/hls/6/index.m3u8
+CCTV7,http://218.29.55.44:808/hls/7/index.m3u8
+CCTV8,http://218.29.55.44:808/hls/8/index.m3u8
+CCTV9,http://218.29.55.44:808/hls/9/index.m3u8
+CCTV10,http://218.29.55.44:808/hls/10/index.m3u8
+CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
+CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
+CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
+CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
+CCTV4K,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV1,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV2,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV3,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV4,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV6,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV7,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV8,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV9,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV10,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV11,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV12,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV15,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV17,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
@@ -155,15 +196,7 @@ CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-🌏港台频道,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://113.117.74.37:808/hls/37/index.m3u8
-凤凰资讯,http://113.117.74.37:808/hls/36/index.m3u8
-凤凰香港,http://113.117.74.37:808/hls/38/index.m3u8
-翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
-翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-翡翠台,http://23.237.10.66:16106
-J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+📺卫视频道,#genre#
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -175,24 +208,77 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8  
-📺卫视频道,#genre#
-广东卫视,http://113.117.74.37:808/hls/40/index.m3u8
-湖南卫视,http://113.117.74.37:808/hls/42/index.m3u8
-浙江卫视,http://113.117.74.37:808/hls/43/index.m3u8
+凤凰资讯,http://113.117.74.8:808/hls/136/index.m3u8
+凤凰中文,http://113.117.74.8:808/hls/37/index.m3u8
+凤凰香港,http://113.117.74.8:808/hls/38/index.m3u8
+翡翠台,http://113.117.74.8:808/hls/25/index.m3u8
+明珠台,http://113.117.74.8:808/hls/26/index.m3u8
+凤凰中文,http://113.117.74.37:808/hls/37/index.m3u8
+凤凰资讯,http://113.117.74.37:808/hls/36/index.m3u8
+凤凰香港,http://113.117.74.37:808/hls/38/index.m3u8
+翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
+
+江西卫视,http://124.220.17.172/as.php?id=34
+江苏卫视,http://124.220.17.172/as.php?id=22
+北京卫视,http://124.220.17.172/as.php?id=24
+东方卫视,http://124.220.17.172/bestv.php?id=22
+浙江卫视,http://124.220.17.172/as.php?id=21
+广东卫视,http://124.220.17.172/as.php?id=26
+深圳卫视,http://124.220.17.172/as.php?id=27
+湖南卫视,http://124.220.17.172/as.php?id=20
+湖北卫视,http://124.220.17.172/as.php?id=33
+天津卫视,http://124.220.17.172/as.php?id=25
+山东卫视,http://124.220.17.172/as.php?id=29
+重庆卫视,http://124.220.17.172/as.php?id=36
+安徽卫视,http://124.220.17.172/as.php?id=32
+黑龙江卫视,http://124.220.17.172/as.php?id=40
+河北卫视,http://124.220.17.172/as.php?id=31
+河南卫视,http://124.220.17.172/shtv/ybhg.php?id=2933389614
+东南卫视,http://124.220.17.172/as.php?id=28d=3
+辽宁卫视,http://124.220.17.172/as.php?id=41
+广西卫视,http://124.220.17.172/as.php?id=50
+陕西卫视,http://124.220.17.172/as.php?id=43
+海南卫视,http://124.220.17.172/shtv/ybhg.php?id=761744437
+吉林卫视,http://124.220.17.172/shtv/ybhg.php?id=1252744610
+贵州卫视,http://124.220.17.172/as.php?id=35
+青海卫视,http://124.220.17.172/shtv/ybhg.php?id=220245527
+宁夏卫视,http://124.220.17.172/as.php?id=44
+新疆卫视,http://124.220.17.172/as.php?id=46
+西藏卫视,http://124.220.17.172/as.php?id=47
+
+江西卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000294103.m3u8
+江苏卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000295603.m3u8
+北京卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000272103.m3u8
+东方卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000292403.m3u8
+浙江卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000295503.m3u8
+广东卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000292203.m3u8
+湖南卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000296203.m3u8
+湖北卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000294503.m3u8
+黑龙江卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000293903.m3u8
+海南卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000291503.m3u8
+山东卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000294803.m3u8
+河南卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000293403.m3u8
+贵州卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000293303.m3u8
+东南卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000292503.m3u8
+广西卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000294203.m3u8
+四川卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000295003.m3u8
+辽宁卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000281303.m3u8
+重庆卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000297803.m3u8
+安徽卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000298003.m3u8
+江西卫视,http://113.117.74.37:808/hls/58/index.m3u8
 江苏卫视,http://113.117.74.37:808/hls/44/index.m3u8
-深圳卫视,http://113.117.74.37:808/hls/46/index.m3u8
-东方卫视,http://113.117.74.37:808/hls/47/index.m3u8
 北京卫视,http://113.117.74.37:808/hls/45/index.m3u8
+东方卫视,http://113.117.74.37:808/hls/47/index.m3u8
+浙江卫视,http://113.117.74.37:808/hls/43/index.m3u8
+广东卫视,http://113.117.74.37:808/hls/40/index.m3u8
+深圳卫视,http://113.117.74.37:808/hls/46/index.m3u8
+湖南卫视,http://113.117.74.37:808/hls/42/index.m3u8
+湖北卫视,http://113.117.74.37:808/hls/51/index.m3u8
 安徽卫视,http://113.117.74.37:808/hls/49/index.m3u8
 天津卫视,http://113.117.74.37:808/hls/48/index.m3u8
 黑龙江卫视,http://113.117.74.37:808/hls/50/index.m3u8
-湖北卫视,http://113.117.74.37:808/hls/51/index.m3u8
 四川卫视,http://113.117.74.37:808/hls/52/index.m3u8
 辽宁卫视,http://113.117.74.37:808/hls/54/index.m3u8
 贵州卫视,http://113.117.74.37:808/hls/53/index.m3u8
@@ -201,7 +287,31 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 纪实人文,http://113.117.74.37:808/hls/56/index.m3u8
 吉林卫视,http://113.117.74.37:808/hls/59/index.m3u8
 广西卫视,http://113.117.74.37:808/hls/60/index.m3u8
-江西卫视,http://113.117.74.37:808/hls/58/index.m3u8
+江西卫视,http://218.29.55.44:808/hls/38/index.m3u8
+江苏卫视,http://218.29.55.44:808/hls/28/index.m3u8
+北京卫视,http://218.29.55.44:808/hls/29/index.m3u8
+浙江卫视,http://218.29.55.44:808/hls/26/index.m3u8
+广东卫视,http://218.29.55.44:808/hls/30/index.m3u8
+深圳卫视,http://218.29.55.44:808/hls/39/index.m3u8
+湖南卫视,http://218.29.55.44:808/hls/27/index.m3u8
+湖北卫视,http://218.29.55.44:808/hls/41/index.m3u8
+黑龙江卫视,http://218.29.55.44:808/hls/31/index.m3u8
+山东卫视,http://218.29.55.44:808/hls/32/index.m3u8
+安徽卫视,http://218.29.55.44:808/hls/33/index.m3u8
+辽宁卫视,http://218.29.55.44:808/hls/34/index.m3u8
+贵州卫视,http://218.29.55.44:808/hls/36/index.m3u8
+河北卫视,http://218.29.55.44:808/hls/37/index.m3u8
+河南卫视,http://218.29.55.44:808/hls/16/index.m3u8
+四川卫视,http://218.29.55.44:808/hls/40/index.m3u8
+天津卫视,http://218.29.55.44:808/hls/42/index.m3u8
+云南卫视,http://218.29.55.44:808/hls/43/index.m3u8
+重庆卫视,http://218.29.55.44:808/hls/44/index.m3u8
+吉林卫视,http://218.29.55.44:808/hls/45/index.m3u8
+甘肃卫视,http://218.29.55.44:808/hls/48/index.m3u8
+东南卫视,http://218.29.55.44:808/hls/49/index.m3u8
+宁夏卫视,http://218.29.55.44:808/hls/46/index.m3u8
+广西卫视,http://218.29.55.44:808/hls/47/index.m3u8
+内蒙古卫视,http://218.29.55.44:808/hls/50/index.m3u8
 CNC中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/1.m3u8
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
@@ -404,29 +514,25 @@ CNC中文,http://39.137.49.76:8080/PLTV/88888888/224/3221225693/index.m3u8?
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
-🏀篮球直播,#genre#
-12月1日08:00 NBA 76人 VS 骑士,https://global.zkshuye.cn/live/sd-2-3674772.m3u8
-08:00 NBA 老鹰 VS 魔术,https://global.zkshuye.cn/live/sd-2-3674773.m3u8
-08:30 NBA 热火 VS 凯尔特人,https://global.zkshuye.cn/live/sd-2-3674774.m3u8
-08:30 NBA 奇才 VS 篮网,https://global.zkshuye.cn/live/sd-2-3674775.m3u8
-08:30 NBA 雄鹿 VS 尼克斯,https://global.zkshuye.cn/live/sd-2-3674776.m3u8
-09:00 NBA 灰熊 VS 森林狼,https://global.zkshuye.cn/live/sd-2-3674777.m3u8
-09:00 NBA 猛龙 VS 鹈鹕,https://global.zkshuye.cn/live/sd-2-3674778.m3u8
-09:00 NBA 马刺 VS 雷霆,https://global.zkshuye.cn/live/sd-2-3674779.m3u8
-10:00 NBA 火箭 VS 掘金,https://global.zkshuye.cn/live/sd-2-3674780.m3u8
-10:00 NBA 公牛 VS 太阳,https://global.zkshuye.cn/live/sd-2-3674781.m3u8
-10:00 NBA 快船 VS 爵士,https://global.zkshuye.cn/live/sd-2-3674782.m3u8
-11:00 NBA 步行者 VS 国王,https://global.zkshuye.cn/live/sd-2-3674783.m3u8
-11:30 NBA 开拓者 VS 湖人,https://global.zkshuye.cn/live/sd-2-3674784.m3u8
-12月2日08:00 NBA 独行侠 VS 活塞,https://global.zkshuye.cn/live/sd-2-3674785.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+CCTV5,http://124.220.17.172/as.php?id=5
+CCTV5,http://124.220.17.172/as.php?id=5
+CCTV16,http://124.220.17.172/as.php?id=16
+CCTV5,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV5+,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV16,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012375001.m3u8
+CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://113.117.74.37:808/hls/5/index.m3u8
 CCTV5+,http://113.117.74.37:808/hls/16/index.m3u8
 广东体育,http://113.117.74.37:808/hls/1/index.m3u8
+广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://113.117.74.37:808/hls/65/index.m3u8
 深圳体育健康,http://113.117.74.37:808/hls/70/index.m3u8
-
+五星体育频道,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育频道,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
@@ -556,6 +662,8 @@ CCTV5+,http://183.207.248.15/PLTV/3/224/3221225604/index.m3u8
 中国蓝TV,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
 浙江国际,https://epg.pm/stream/2f8292e3a2547b4be3d210b308e1e2e06ebb8aa4d98d2a51d16336423527ab21.m3u8
 👶少儿频道,#genre#
+CCTV14,http://124.220.17.172/as.php?id=14
+CCTV14,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV14,http://39.135.138.59:18890/PLTV/88888888/224/3221225640/index.m3u8
 CCTV14,http://182.151.211.171:808/hls/14/index.m3u8
@@ -688,3 +796,72 @@ Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+🍓欧美电台_1116,#genre#
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+欧美5[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美8[1280*720],http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+欧美12[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+欧美2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+🍓｜VIP欧美直播高清_1116,#genre#
+AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+
+🍓｜VIP欧美高清1_1116,#genre#
+Brazzers HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/6182/index.m3u8
+Brazzers TV Europe,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/910/index.m3u8
+Brazzers eXXtra,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/6181/index.m3u8
+Hustler HD orig,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/9065/index.m3u8
+Hustler HD Europe,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/244/index.m3u8
+Blue Hustler,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/1064/index.m3u8
+Penthouse Passion HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/1073/index.m3u8
+Penthouse Gold HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/5011/index.m3u8
+Penthouse Quickies HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/5013/index.m3u8
+DDF Network,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/6194/index.m3u8
+DDF Busty,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/6193/index.m3u8
+Naughty America,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/6237/index.m3u8
+Русская Ночь,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/147/index.m3u8
+Нюарт TV,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/2057/index.m3u8
+Шалун,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/922/index.m3u8
+Playboy,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/527/index.m3u8
+Sexto Senso,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/875/index.m3u8
+Penthouse Quickies 1300k,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/5012/index.m3u8
+

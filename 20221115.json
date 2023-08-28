@@ -1,6 +1,6 @@
 {
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
+"spider":"./jar/Yoursmile.jar",
 
 // 配置直播地址
 "lives":[{

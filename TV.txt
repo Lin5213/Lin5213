@@ -54,6 +54,25 @@
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4	
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+📺港台频道,#genre#
+凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
+凤凰中文,http://nsszds.f3322.net:8081/hls/37/index.m3u8
+凤凰香港,http://nsszds.f3322.net:8081/hls/38/index.m3u8
+翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
+凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.28:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
+翡翠台,http://113.117.74.28:8081/hls/67/index.m3u8
+凤凰资讯,http://175.13.226.6:8888/udp/239.76.246.8:1234
+凤凰资讯,http://175.13.226.6:8888/udp/239.76.246.7:1234
+凤凰中文,http://175.13.226.6:8888/udp/239.76.253.135:9000
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
+无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
 🌏央视卫视,#genre#
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
@@ -241,24 +260,6 @@ CCTV13,http://cyz32.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be4b01f.
 CCTV15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
 CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
 📺卫视频道,#genre#
-凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰中文,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰香港,http://nsszds.f3322.net:8081/hls/38/index.m3u8
-翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
-凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.28:8081/hls/37/index.m3u8
-凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
-翡翠台,http://113.117.74.28:8081/hls/67/index.m3u8
-凤凰资讯,http://175.13.226.6:8888/udp/239.76.246.8:1234
-凤凰资讯,http://175.13.226.6:8888/udp/239.76.246.7:1234
-凤凰中文,http://175.13.226.6:8888/udp/239.76.253.135:9000
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
-无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
 江西新闻,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv7.m3u8
 江西卫视,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv1.m3u8
 江西都市,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv2.m3u8

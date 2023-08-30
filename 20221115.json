@@ -30,6 +30,7 @@
 {"key":"1看看剧", "name":"👀看看剧", "type":3, "api":"csp_AppYsV2", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://kankanju.cc/api.php/app/"}, 
 {"key":"zy_10801", "name":"1080影视", "type":1, "api":"https://api.1080zyku.com/inc/apijson.php", "playUrl":"https://vip.zykbf.com/?url=", "categories":["国产剧", "大陆综艺", "国产动漫", "日韩综艺", "日韩动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "纪录片", "剧情片", "动画片", "战争片"]}, 
 {"key":"废物影院", "name":"️废物影院", "type":1, "api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "综艺", "日韩剧", "惊悚片", "犯罪片", "冒险片", "动作片", "科幻片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "战争片", "悬疑片", "剧情片", "记录片", "港台剧", "欧美剧", "动漫"]}, 
+{"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar": "./jar/custom_spider.jar"},
 {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},   
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

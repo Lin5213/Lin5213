@@ -73,6 +73,7 @@
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
+TVBS新闻,rtmp://218.32.29.20/sat/tv551
 🌏央视卫视,#genre#
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
@@ -567,6 +568,7 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://fsv4.yj011.net/sat/tv721.flv
+纬来体育,rtmp://218.32.29.20/sat/tv721
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5+,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
 CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil

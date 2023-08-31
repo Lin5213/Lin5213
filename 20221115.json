@@ -15,7 +15,7 @@
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
 //音乐广播
-{"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"./广播频道.txt"},
+{"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$https://agit.ai/zxwwp/TVBox/raw/branch/master/广播频道.txt"},
 {"key":"Live2cms","name":"电视直播","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
     {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
 //体育直播

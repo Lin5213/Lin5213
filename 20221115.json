@@ -16,7 +16,17 @@
 "sites":[
 //音乐广播
 {"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
- 
+        {
+            "key": "js_酷狗MV",
+            "name": "🎻┃酷狗┃音乐",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://bitbucket.org/xduo/json/raw/master/酷狗MV.js"
+        },
+		
  //体育直播
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播迷.js"},
@@ -26,7 +36,7 @@
 {"key":"csp_XYQBiu_310直播","name":"🏀310直播✨","type":3,"api":"csp_XYQBiu","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./tiyu/310直播.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"zy_新浪", "name":"🆗新浪影视", "type":1, "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list", "searchable":1, "quickSearch":1, "filterable":1}, 
+{"key":"zy_新浪", "name":"🏄🏻新浪影视", "type":1, "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list", "searchable":1, "quickSearch":1, "filterable":1}, 
 {"key":"zy_baidu", "name":"百度资源", "type":1, "api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list", "searchable":1, "quickSearch":1, "filterable":1, "playerType":2}, 
 {"key": "API_火狐","name": "火狐资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"量子资源","name":"👔量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"changeable": 1},
@@ -36,7 +46,6 @@
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar": "./jar/custom_spider.jar"},
 {"key": "csp_XPathAli_蚂蚁","name": "🧲蚂蚁4K☆磁力", "type": 3, "api": "csp_XPathAli", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/w769061082/tvbox2/raw/main/json/%E8%9A%82%E8%9A%814K.json","jar":"https://gitee.com/w769061082/tvbox2/raw/main/jar/app.jar"},
-{"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/APP/%E4%B8%80%E9%BE%99%E9%AB%98%E6%B8%85.json"},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -69,8 +78,8 @@
 {"key":"零零七","name":"💢零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零零七影视.json"},
 {"key":"drpy_奇优影院","name":"🎀奇优影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇优影院.js"},
 {"key": "drpy_秋霞影视","name": "🍪秋霞影视✨","type": 3,"api": "./js/drpy.min.js","ext": "./js/秋霞影视.js"},
-{"key":"drpy_菜狗","name":"🐌搜狗✨","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
-{"key":"drpy_奇珍异兽","name":"🐨爱奇艺✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"drpy_菜狗","name":"🐕️搜狗✨","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
+{"key":"drpy_奇珍异兽","name":"🥝爱奇艺✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_腾云驾雾","name":"🐧腾讯✨","type":3,"api":"./js/drpy.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_百忙无果","name":"🍋芒果✨","type":3,"api":"./js/drpy.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_优酷","name":"优酷","type":3,"api":"./js/drpy.min.js","ext":"./js/优酷.js"},

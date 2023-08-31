@@ -16,7 +16,7 @@
 "sites":[
 //音乐广播
 {"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
-
+{"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 //体育直播
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播迷.js"},

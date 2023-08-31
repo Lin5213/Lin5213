@@ -23,8 +23,7 @@
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_玩球直播","name":"🏀玩球直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/玩球直播.js"},
 {"key":"dr_优直播","name":"🏀优直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/优直播.js"},
-{"key":"310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/310直播.js"},
-{"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./tiyu/310直播.json"},
+{"key":"csp_XYQBiu_310直播","name":"🏀310直播✨","type":3,"api":"csp_XYQBiu","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./tiyu/310直播.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"zy_新浪", "name":"🆗新浪影视", "type":1, "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list", "searchable":1, "quickSearch":1, "filterable":1}, 

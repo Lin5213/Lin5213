@@ -14,6 +14,8 @@
  
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
+//
+    {"key":"Live2cms","name":"广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"./live.txt"},
 //体育直播
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播迷.js"},

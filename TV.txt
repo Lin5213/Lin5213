@@ -55,27 +55,6 @@
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4	
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 📺港台频道,#genre#
-凤凰中文,mitv://generationnexxxt.com:19806/98826034592245d18d0a7f9e29f1398f
-凤凰资讯,mitv://generationnexxxt.com:19806/c25ff00d1f62473190819062e87bb70d
-凤凰香港,mitv://generationnexxxt.com:19806/eba2c91eb6c54e51b78036d9412a355c
-翡翠台,mitv://generationnexxxt.com:19806/6986050f9a7a48fc8df8e2637d10b610
-千禧经典台,mitv://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
-民视,mitv://generationnexxxt.com:19806/412a0c47c1014e7d85da7d2d38631eb7
-台视,mitv://generationnexxxt.com:19806/d12a80dfeb36488db100bbca6c6378e1
-中视,mitv://generationnexxxt.com:19806/38fd33fc8b9f45849cdf38d21665d66f
-华视,mitv://generationnexxxt.com:19806/36d7338b225248c2b1e321f9966cf104
-公视,mitv://generationnexxxt.com:19806/bdabc8d4fb5d453fbeac7932d22ee2e9
-壹电视新闻台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
-年代新闻,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
-东森新闻台,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新闻,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
-民视新闻台,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
-三立新闻台,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
-TVBS新闻台,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
-TVBS,mitv://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
-东森财经新闻台,mitv://generationnexxxt.com:19806/3c7772c47dc6438a9f14cd6b6ac66d80
-非凡新闻台,mitv://generationnexxxt.com:19806/d1472f8b243542f29e2c00221691f99b
-
 凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
 凤凰中文,http://nsszds.f3322.net:8081/hls/37/index.m3u8
 凤凰香港,http://nsszds.f3322.net:8081/hls/38/index.m3u8
@@ -92,7 +71,6 @@ TVBS,mitv://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰中文,http://qspyx.7766.org:9999/tsfile/live/1106_1.m3u8
 凤凰资讯,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
-无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 翡翠台,http://nsszds.f3322.net:8081/hls/67/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf

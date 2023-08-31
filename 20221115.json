@@ -16,15 +16,25 @@
 "sites":[
 //音乐广播
 {"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
-        {
-            "key": "js_酷狗MV",
-            "name": "🎻┃酷狗┃音乐",
+         {
+            "key": "js_a8音乐",
+            "name": "🎸┃奥迪┃音乐",
             "type": 3,
             "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/酷狗MV.js"
+            "ext": "https://bitbucket.org/xduo/json/raw/master/a8音乐.js"
+        },
+        {
+            "key": "csp_酷奇",
+            "name": "🎤┃酷奇┃音乐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://bitbucket.org/xduo/json/raw/master/酷奇MV.json"
         },
 		
  //体育直播

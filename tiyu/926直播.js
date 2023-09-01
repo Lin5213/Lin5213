@@ -1,6 +1,6 @@
 var rule = {
     title:'926直播',
-    host:'http://www.926.tv',
+    host:'http://www.926.tv/{cateId}',
     //备用网址：http://www.928.tv，http://www.310.tv
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'热门&篮球&足球&体育',     //静态分类名称拼接

@@ -3,7 +3,7 @@ var rule = {
     host:'https://m.98zhibo.com/',
     url:'/fyclass',
     class_name:'赛事直播✨注意时间',       //静态分类名称拼接
-    class_url:'all',    //静态分类标识拼接
+    class_url:'/',    //静态分类标识拼接
     headers:{
         'User-Agent':'MOBILE_UA'
     },

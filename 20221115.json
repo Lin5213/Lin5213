@@ -35,7 +35,7 @@
 {"key":"zy_10801", "name":"1080影视", "type":1, "api":"https://api.1080zyku.com/inc/apijson.php", "playUrl":"https://vip.zykbf.com/?url=", "categories":["国产剧", "大陆综艺", "国产动漫", "日韩综艺", "日韩动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "纪录片", "剧情片", "动画片", "战争片"]}, 
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar": "./jar/custom_spider.jar"},
-{"key":"csp_SixV","name":"🧲米来影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.milaitv.com/"},
+{"key":"米来影视","name":"🧲米来影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.milaitv.com/"},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

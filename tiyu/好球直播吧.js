@@ -23,7 +23,8 @@ var rule = {
           desc:';;;.score_name_left h3&&Text;.score_name_left.score_name_right h3&&Text',  //// 演员;导演
           //content:"style h1&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.sig-list a:gt(0)',
+          //lists:'.sig-list a:gt(0)',
+          lists:'.sig-list.a.ncp a:gt(4):lt(15)',
           list_text:'a&&Text',
           list_url:'a&&href'
          },

@@ -1,7 +1,7 @@
 var rule = {
     title:'看球直播',
     host:'https://kanqiu01.com/',
-    url:'/',
+    url:'/fyclass&g=fypage',
     class_name:'赛事直播✨注意时间',       //静态分类名称拼接
     class_url:'schedule/lists',    //静态分类标识拼接
     推荐:'*',

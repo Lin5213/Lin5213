@@ -15,7 +15,7 @@ var rule = {
           desc:';;;.ht&&Text;.gt&&Text',  //// 演员;导演
           content:".team&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.sig-list.a.ncp a:gt(1):lt(15)',  //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'.sig-list.a.ncp a:gt(0):lt(15)',  //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
          },

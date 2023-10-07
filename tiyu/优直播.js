@@ -1,6 +1,6 @@
 var rule = {
     title:'优直播',
-    host:'https://www.yoozhibo.net/',
+    host:'https://www.yoozhibo.net/{cateId}',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
     class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接

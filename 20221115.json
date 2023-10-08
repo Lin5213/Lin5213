@@ -23,7 +23,8 @@
 {"key":"88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_玩球直播","name":"🏀玩球直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/玩球直播.js"},
 {"key":"优直播","name":"🏀优直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/优直播.js"},
-  
+{"key":"310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/310直播.js"}, 
+
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key": "API_火狐","name": "火狐资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"zy_新浪", "name":"🏄🏻新浪影视", "type":1, "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list", "searchable":1, "quickSearch":1, "filterable":1}, 
@@ -37,17 +38,6 @@
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar": "./jar/custom_spider.jar"},
 {"key": "纽约影院","name": "纽约影院","type": 3, "api": "./js/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/纽约影院.js"},
 {"key": "凌云影视","name": "凌云影视","type": 3,"api": "./js/drpy.min.js","searchable": 1,"changeable": 1,"ext": "./js/凌云影视.js"},
-    {
-      "key": "Gitcafe",
-      "name": "小纸条(新)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "token;desc"
-    },
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"新视觉","name":"✨新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./json/新视觉影院.json"},

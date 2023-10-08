@@ -37,6 +37,7 @@
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar": "./jar/custom_spider.jar"},
 {"key": "纽约影院","name": "纽约影院","type": 3, "api": "./js/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/纽约影院.js"},
 {"key": "凌云影视","name": "凌云影视","type": 3,"api": "./js/drpy.min.js","searchable": 1,"changeable": 1,"ext": "./js/凌云影视.js"},
+{"key":"csp_xpath_qdytv","name":"米来影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/qdytv.json"},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"新视觉","name":"✨新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./json/新视觉影院.json"},

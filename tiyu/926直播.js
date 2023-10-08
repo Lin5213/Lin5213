@@ -11,9 +11,9 @@ var rule = {
        desc:';;;.ks_zhumc&&Text;.ks_kemc&&Text',
        content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'.singldl&&dd',   //:gt(2):lt(17)显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+        lists:'dl.singldl&&dd',   //:gt(2):lt(17)显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
         list_text:'span.diss&&Text',
-        list_url:'a&&href'
+        list_url:'zr-zfr-cy&&href'
         },
         //二级:'*', 
     搜索:'',

@@ -42,7 +42,7 @@
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/NY影院.js"
+      "ext": "./js/NY影院.js"
     },
 {"key": "凌云影视","name": "凌云影视","type": 3,"api": "./js/drpy.min.js","searchable": 1,"changeable": 1,"ext": "./js/凌云影视.js"},
 {"key": "北川影视","name": "北川影视","type": 3,"api": "./js/drpy.min.js","searchable": 1,"changeable": 1,"ext": "./js/北川影视.js"},

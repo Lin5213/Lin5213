@@ -11,13 +11,17 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     }],
- 
+ "warningText":"经典造型提醒：江湖路漫漫-有缘再会｜禁止传播！",  
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
 //音乐广播
-{"key":"广播频道","name":"📡广播电台","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
+{"key":"drpy_js_南瓜影视","name":"经典造型 | 南瓜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},	
 	
- //体育直播
+{"key":"一起看 ","name":"经典✂造型┃影迷","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"drpy_js_荐片","name":"经典|荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js", "timeout":30}, 
+{"key":"drpy_js_磁力熊搜索","name":"经典✂┃磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+{"key":"csp_Czsapp","name":"经典✂｜厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
+{"key":"csp_AppYsV2","name":"经典✂|美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key": "API_火狐","name": "火狐资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"zy_新浪", "name":"🏄🏻新浪影视", "type":1, "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list", "searchable":1, "quickSearch":1, "filterable":1}, 
